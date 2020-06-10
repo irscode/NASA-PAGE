@@ -1,0 +1,43 @@
+h1{
+    font-size: 500%;
+    font-family: 'Cabin', sans-serif;
+    color: white;
+    padding-top: 35%;
+    padding-left: 40%;
+}
+ 
+h2 {
+
+    font-family:  Verdana;
+}
+
+
+#nasa{
+    background-image: url("image-astronaut.jpg");
+    background-repeat: no-repeat;
+    height: 450px;
+    width: 850px;
+    margin: 0 auto;
+
+}
+
+.social{
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    padding-top: -30%; 
+}
+
+#bottom {
+    background-color: #E6E6E6;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 324px;
+    width: 850px;
+    margin: auto;
+}
+
+.contact{
+    margin-right: 15%;
+}
